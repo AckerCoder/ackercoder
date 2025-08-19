@@ -1,10 +1,9 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ5Mmk1azQwazQ1Y3doYTl4MDI3dXpzMG9lMzFhaXd1Z2ZxczE3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYXxOh6lMgHf94oBDe/giphy.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/ackercoder">Miguel Zegarra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;**_About me_**
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ5Mmk1azQwazQ1Y3doYTl4MDI3dXpzMG9lMzFhaXd1Z2ZxczE3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYXxOh6lMgHf94oBDe/giphy.gif"/>
 
 I am a **Technical Co-Founder & Product Engineer** with 7+ years building scalable applications and driving startup success. I combine deep technical expertise with strong product intuition and business acumen to turn ambitious ideas into market-winning products. My experience spans fintech and fast-paced startup environments, where I excel at making technical decisions that accelerate growth and attract investment.
 
