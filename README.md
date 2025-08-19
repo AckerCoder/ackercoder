@@ -42,7 +42,7 @@ I am a **Sofware & Product Engineer** with 7+ years building scalable applicatio
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 
-<img align="right" width=310px alt="Coding" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+<img align="right" width=310px alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YyNmMwaGQya2dkcnoxcnprcWd4aHE4YWRzbjZodTJ3YnVsN3BzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iKBAAfYNDu1dowhnEj/giphy.gif"/>
 
 ###### Frontend & UI:
 
