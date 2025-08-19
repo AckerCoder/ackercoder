@@ -11,8 +11,8 @@ I am a **Sofware & Product Engineer** with 7+ years building scalable applicatio
 - 💡 Currently focused on helping **non-technical founders** build their MVPs
 - 🎯 Passionate about **product-market fit** optimization and **startup growth**
 - ✔ I don't just build what you ask for—I build what your **users need** and **investors want to fund**
-- 📊 I bring **investment perspective** to technical decisions
-- 🎸 Outside tech, I enjoy playing musical instruments, discussing startups, and exploring new technologies
+- 📊 I bring **investment and product perspective** to technical decisions
+- 🎸 Outside tech, I enjoy playing padel, discussing startups, and exploring new technologies
 - 📫 Reach out to me at: <a href="mailto:ackercoder@gmail.com">ackercoder@gmail.com</a>
   <br>
 
