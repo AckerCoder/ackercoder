@@ -5,7 +5,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ5Mmk1azQwazQ1Y3doYTl4MDI3dXpzMG9lMzFhaXd1Z2ZxczE3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYXxOh6lMgHf94oBDe/giphy.gif"/>
 
-I am a **Technical Co-Founder & Product Engineer** with 7+ years building scalable applications and driving startup success. I combine deep technical expertise with strong product intuition and business acumen to turn ambitious ideas into market-winning products. My experience spans fintech and fast-paced startup environments, where I excel at making technical decisions that accelerate growth and attract investment.
+I am a **Sofware & Product Engineer** with 7+ years building scalable applications and driving startup success. I combine deep technical expertise with strong product intuition and business acumen to turn ambitious ideas into market-winning products. My experience spans fintech and fast-paced startup environments, where I excel at making technical decisions that accelerate growth and attract investment.
 
 - 🚀 I specialize in **zero-to-one product development** and **scaling architectures**
 - 💡 Currently focused on helping **non-technical founders** build their MVPs
@@ -13,7 +13,7 @@ I am a **Technical Co-Founder & Product Engineer** with 7+ years building scalab
 - ✔ I don't just build what you ask for—I build what your **users need** and **investors want to fund**
 - 📊 I bring **investment perspective** to technical decisions
 - 🎸 Outside tech, I enjoy playing musical instruments, discussing startups, and exploring new technologies
-- 📫 Reach out to me at: <a href="mailto:miguel@example.com">miguel@example.com</a>
+- 📫 Reach out to me at: <a href="mailto:ackercoder@gmail.com">ackercoder@gmail.com</a>
   <br>
 
 <!-- Profile Trophies -->
@@ -25,10 +25,9 @@ I am a **Technical Co-Founder & Product Engineer** with 7+ years building scalab
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:miguel@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/ackercoder/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/ackercoder"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/ackercoder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="mailto:ackercoder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/armando-miguel-zegarra-castillo/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://x.com/MiguelZ73930764"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
 </div>
 
 <br>
@@ -89,9 +88,9 @@ I am a **Technical Co-Founder & Product Engineer** with 7+ years building scalab
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">🚀 Technical Co-Founder Opportunities</h3>
+      <h3 align="center">🚀 New Challenges</h3>
       <div align="center">
-        <p><strong>I'm actively seeking technical co-founder opportunities with:</strong></p>
+        <p><strong>I'm actively seeking challenges and opportunities with:</strong></p>
         <br>
         <div style="text-align: left; display: inline-block;">
         📈 <strong>Ambitious founders</strong> with validated business ideas<br>
@@ -102,7 +101,7 @@ I am a **Technical Co-Founder & Product Engineer** with 7+ years building scalab
         </div>
         <br>
         <p>
-          <a href="mailto:miguel@example.com" target="_blank">
+          <a href="mailto:ackercoder@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Let's%20Connect-📧-blue?style=for-the-badge&logo=gmail&logoColor=white">
           </a>
         </p>
