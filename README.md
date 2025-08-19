@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/ruhrHUB-rainbow-rocket-startup-NYXxOh6lMgHf94oBDe" width="100%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ5Mmk1azQwazQ1Y3doYTl4MDI3dXpzMG9lMzFhaXd1Z2ZxczE3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYXxOh6lMgHf94oBDe/giphy.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/ackercoder">Miguel Zegarra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
