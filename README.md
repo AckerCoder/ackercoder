@@ -137,14 +137,6 @@ I am a **Sofware & Product Engineer** with 7+ years building scalable applicatio
 </p>
 <br>
 
-<!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/ackercoder/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br>
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
